@@ -83,5 +83,3 @@ ALTER PUBLICATION supabase_realtime ADD TABLE public.bookmarks;
 
 ---
 
-## 👨‍💻 Built By
-**[Your Name]** + **Antigravity (AI)**
